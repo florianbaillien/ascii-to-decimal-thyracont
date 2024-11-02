@@ -1,6 +1,6 @@
 ---
 
-# ASCII to Decimal Converter
+# ASCII to Decimal Converter For Checksums
 
 This project is a simple graphical user interface (GUI) application created using Python's `tkinter` library. It allows users to input text, performs a calculation based on the ASCII values of the characters, and displays the result.
 
